@@ -198,8 +198,7 @@ function App() {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow">
-              <img
-                src="public/image (1).jpeg"
+              <img src="image (4).jpeg"
                 alt="Solar Residencial"
                 className="w-full h-48 object-cover"
               />
